@@ -26,8 +26,16 @@
     box-sizing: border-box;
     color: var(--mainTextColor-light);
 }
+section {
+    display: flex;
+}
 body {
     background-color: var(--mainBgColor-light);
+    display: flex;
+}
+div {
+    display: flex;
+    flex-direction: column;
 }
 p, span, li {
     color: var(--secondaryTextColor-light);
@@ -48,6 +56,8 @@ li {
 }
 .section--page{
     padding: 1em 0 1em 0;
+    display: flex;
+    flex-direction: column;
 }
 #wrapper--hero {
     display: flex;
@@ -107,10 +117,15 @@ li {
     margin: 1em;
     padding: 1em;
     border: 1px solid var(--mainBorderColor-light);
+    flex-direction: column;
 }
 
 .card--project a {
     color: var(--mainLinkColor-light);
+    margin: 0.7rem 1rem;
+}
+.card--project span {
+    margin: 10px;
 }
 .wrapper--techstack__items {
     flex-direction: column;
