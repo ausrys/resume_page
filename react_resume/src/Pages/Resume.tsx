@@ -5,7 +5,6 @@ import Skills from "../Components/Resume/Skills";
 import Socials from "../Components/Resume/Socials";
 import SoftSkills from "../Components/Resume/SoftSkills";
 import WorkHistory from "../Components/Resume/WorkHistory";
-import "../assets/Styles/resume_styles.css";
 const Resume = () => {
   return (
     <div className="max-w-[700px] mx-auto flex flex-col">
