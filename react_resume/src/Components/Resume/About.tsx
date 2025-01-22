@@ -1,4 +1,3 @@
-import "../../assets/Styles/resume_styles.css";
 import profile_picture from "../../assets/Images/Aušrys MikoliūnasE.jpg";
 const About = () => {
   return (
