@@ -22,7 +22,7 @@ const Projects = () => {
         </a>
         <a
           className="text-light-blue w-fit mb-1"
-          href="frontPrev.html"
+          href="/resume_page/frontPrev.html"
           target="_blank"
         >
           Front-end project preview
