@@ -84,7 +84,7 @@ const Projects = () => {
       </div>
       <div className="my-5 p-3 border-2 flex flex-col">
         <span>
-          Instagram followers counter with <b>Node.js</b>{" "}
+          Instagram followers counter with <b>Node.js</b>
         </span>
         <p className="my-3">
           Simple and small program to find out who follows you back on the
@@ -96,6 +96,25 @@ const Projects = () => {
         <a
           className="text-light-blue w-fit mb-1"
           href="https://github.com/ausrys/insta_followers_counter"
+          target="_blank"
+        >
+          Code on github
+        </a>
+      </div>
+      <div className="my-5 p-3 border-2 flex flex-col">
+        <span>
+          A safe-app made with <b>Electron</b> and <b>React.js</b>
+        </span>
+        <p className="my-3">
+          Safe App is a secure file storage application built using{" "}
+          <b>Ekectron</b> &<b> React</b>, designed to protect your sensitive
+          files through <b>AES 256</b> encryption and decryption. Users can
+          securely store, manage, and access files inside the app while
+          preventing unauthorized access outside of it.
+        </p>
+        <a
+          className="text-light-blue w-fit mb-1"
+          href="https://github.com/ausrys/safe-app"
           target="_blank"
         >
           Code on github
