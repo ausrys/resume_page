@@ -10,17 +10,7 @@ const About = () => {
       <div>
         <h1 className="text-4xl my-4">Aušrys Mikoliūnas</h1>
         <p className="leading-6 ml-3">
-          Self-taught programmer is looking for a job in web development
-          industry. My programming experience comes from various subjects of
-          studies in university, Bachelor's project, Master's project,
-          self-learning from open sources, making small projects. I specialize
-          in back-end and front-end web development, mostly using Node.js and a
-          little PHP for back-end. For front-end I can use JavaScript, CSS3,
-          HTML5. I am highly motivated to start my career as a web developer and
-          I am eager to expand my knowledge in real work environment by learning
-          from experienced developers and offering my skills and knowledge in
-          return. Be sure to check out my digital resume where some of my
-          programming projects are introduced.
+          Self-driven and detail-oriented Software Engineer with experience in backend development using Node.js, Python and in frontend using React.js, CSS3, HTML5. Experienced in building scalable services, managing data workflows, and contributing to CI/CD pipelines, deployment processes using Git. Experience with AWS services and Infrastructure as Code using Terraform to provision and maintain cloud infrastructure. Solid problem-solving skills, attention to detail, and a hands-on approach to modern software development and best coding practices, delivering reliable and maintainable systems in production environments.
         </p>
       </div>
     </section>

@@ -6,6 +6,24 @@ const Projects = () => {
       </div>
       <div className="my-5 p-3 border-2 flex flex-col">
         <span className="mb-3">
+          Simple workout app where an user can register and get work out
+          programs based on his level of experience, age.
+        </span>
+        <span>
+          <b>Python, React</b>
+        </span>
+        <span>Check it here:</span>
+
+        <a
+          className="text-light-blue w-fit mb-1"
+          href="https://github.com/ausrys/Work_out_project"
+          target="_blank"
+        >
+          Github
+        </a>
+      </div>
+      <div className="my-5 p-3 border-2 flex flex-col">
+        <span className="mb-3">
           I have built a landing page from a given Figma example with{" "}
           <b>CSS3</b> and <b>HTML5</b>. It ran on a simple
           <b> Laravel</b> back-end, which accepted requests and had mail
