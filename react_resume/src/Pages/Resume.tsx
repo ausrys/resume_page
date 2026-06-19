@@ -1,6 +1,5 @@
 import About from "../Components/Resume/About";
 import Education from "../Components/Resume/Education";
-import Projects from "../Components/Resume/Projects";
 import Skills from "../Components/Resume/Skills";
 import Socials from "../Components/Resume/Socials";
 import SoftSkills from "../Components/Resume/SoftSkills";
@@ -14,7 +13,6 @@ const Resume = () => {
       <Skills />
       <SoftSkills />
       <WorkHistory />
-      <Projects />
     </div>
   );
 };

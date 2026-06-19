@@ -7,7 +7,24 @@ const WorkHistory = () => {
       <div className="border-l-2 my-3">
         <div className="m-3">
           <strong>
-            Software Engineer Orion| Innovation | 2025/04 – Present
+            Full Stack Software Developer | Kickertech | 2025/09 – Present
+          </strong>
+          <ul className="ml-5 list-disc">
+            <li className="mb-2">
+              Developing and maintaining Node.js applications, services.
+            </li>
+            <li className="mb-2">
+              Frontend development using React.js and TypeScript.
+            </li>
+            <li className="mb-2">Messages handling, data processing.</li>
+            <li className="mb-2">Monitoring tools like Grafana, Kibana.</li>
+          </ul>
+        </div>
+      </div>
+      <div className="border-l-2 my-3">
+        <div className="m-3">
+          <strong>
+            Software Engineer Orion Innovation | 2025/04 – 2025/08
           </strong>
           <ul className="ml-5 list-disc">
             <li className="mb-2">
